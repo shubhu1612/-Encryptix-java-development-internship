@@ -1,1 +1,53 @@
+Currency Converter
+1. US Dollar to Indian Rupees
+2. Indian Rupees to US Dollar
+3. Europen Euro to Indian Rupees
+4. Japanese Yen to Indian Rupees
+5. Exit
+Enter your choice: 1
 
+Enter amount to convert: 45
+Converted Amount : 3757.5
+
+Currency Converter
+1. US Dollar to Indian Rupees
+2. Indian Rupees to US Dollar
+3. Europen Euro to Indian Rupees
+4. Japanese Yen to Indian Rupees
+5. Exit
+Enter your choice: 2
+
+Enter amount to convert: 65
+Converted Amount : 0.78
+
+Currency Converter
+1. US Dollar to Indian Rupees
+2. Indian Rupees to US Dollar
+3. Europen Euro to Indian Rupees
+4. Japanese Yen to Indian Rupees
+5. Exit
+Enter your choice: 3
+
+Enter amount to convert: 650
+Converted Amount : 59228.0
+
+Currency Converter
+1. US Dollar to Indian Rupees
+2. Indian Rupees to US Dollar
+3. Europen Euro to Indian Rupees
+4. Japanese Yen to Indian Rupees
+5. Exit
+Enter your choice: 4
+
+Enter amount to convert: 456
+Converted Amount : 264.47999999999996
+
+Currency Converter
+1. US Dollar to Indian Rupees
+2. Indian Rupees to US Dollar
+3. Europen Euro to Indian Rupees
+4. Japanese Yen to Indian Rupees
+5. Exit
+Enter your choice: 5
+
+Exiting Currency Converter. Thank you!
