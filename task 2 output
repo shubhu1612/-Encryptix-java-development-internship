@@ -1,1 +1,45 @@
-
+enter your pin of 4 digits
+1234
+1.view balance
+2.withdraw amount
+3.deposite amount
+4.Exit
+Enter your choice
+1
+your account balance is 4000.0
+1.view balance
+2.withdraw amount
+3.deposite amount
+4.Exit
+Enter your choice
+2
+Enter amount you want to withdraw
+500
+withdraw: 500.0
+balance left 3500.0
+1.view balance
+2.withdraw amount
+3.deposite amount
+4.Exit
+Enter your choice
+3
+Enter amount that you want to deposite
+7000
+Amount deposited successfully!
+1.view balance
+2.withdraw amount
+3.deposite amount
+4.Exit
+Enter your choice
+2
+Enter amount you want to withdraw
+200
+withdram amount should be multiple of 500
+1.view balance
+2.withdraw amount
+3.deposite amount
+4.Exit
+Enter your choice
+4
+Collect your atm card .
+Thank you for using our ATM machine!
