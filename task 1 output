@@ -1,1 +1,25 @@
-
+Guess a number between 1 and 100 
+You have 10 guesses
+Enter your guess: 55
+It is smaller than: 55
+You have 9 guesses left
+Enter your guess: 45
+It is smaller than: 45
+You have 8 guesses left
+Enter your guess: 25
+It is smaller than: 25
+You have 7 guesses left
+Enter your guess: 15
+It is smaller than: 15
+You have 6 guesses left
+Enter your guess: 5
+It is larger than: 5
+You have 5 guesses left
+Enter your guess: 10
+It is smaller than: 10
+You have 4 guesses left
+Enter your guess: 7
+It is larger than: 7
+You have 3 guesses left
+Enter your guess: 8
+Yes, you guessed the number!
